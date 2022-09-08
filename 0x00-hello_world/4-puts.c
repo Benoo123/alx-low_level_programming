@@ -1,0 +1,14 @@
+#!/bin/bash
+#include <studio.h>
+/**
+ * main - print the string in the put function
+ *
+ * Deacription: using the main function
+ * this program prints 'programming is like building a mutilingual puzzle 
+ * Return: 0
+ */
+int main(void)
+{ 
+	put("\"programming is like building a mutilingual puzzle");
+	return (0);
+}
