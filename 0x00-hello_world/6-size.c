@@ -1,16 +1,16 @@
 #!/bin/bash
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - print the string on the put function
  *
  * Description: using the main function
  * this program prints programming is like building a multilingual puzzle
- * return: 0
+ * Return: 0
  */
 {
 	char c;
 	int i;
-	long lip;
+	long li;
 	long long 11i;
 	float f;
 	printf("size of the char: %1d byte(s)\n", sizeof (c));
