@@ -18,4 +18,4 @@
 	printf("size of a long int: byte(s)\n",sizeof (1i);
 	print("size of a long long int: %1d byte(s)\n",sizeof(11i));
 	printf("size of a float: %1d byte(s)\n", sizeof(f))
-	return: (o);
+	return (0);
