@@ -1,4 +1,4 @@
-#include "nain.h"
+#include "main.h"
 
 /**
  * _isupper -checks if the character is uppercase or not
