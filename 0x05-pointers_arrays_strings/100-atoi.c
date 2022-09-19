@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _atoi - convert a strin to an integer
  * @s: The pointer to convert
