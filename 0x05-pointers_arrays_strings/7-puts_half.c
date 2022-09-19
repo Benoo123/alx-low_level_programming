@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * pits_half - A function that prints second half of a string
+ * puts_half - A function that prints second half of a string
  * @str: The string to be printed
  * Return: Always void (success)
  */
@@ -22,6 +22,6 @@ void puts_half(char *str)
 	{
 		putchar(str[i]);
 		i++;
-	};
-	putchar('\n')
+	}
+	putchar('\n');
 }
